@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items version="2016.127">
+	<item name="filevault.numberOfCreatedVaults" value="0" isdefault="1" itemadminflag="0" itemapilockflag="0" instance="0" instanceadminflag="0" instanceapilockflag="0"/>
+	<item name="filevault.activeList" value="" isdefault="1" itemadminflag="0" itemapilockflag="0" instance="0" instanceadminflag="0" instanceapilockflag="0"/>
+</items>

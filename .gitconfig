@@ -1,0 +1,9 @@
+[gui]
+	recentrepo = C:/Users/shashem/Test
+[user]
+	name = <Your-Full-Name>
+	email = <your-email-address>
+[color]
+	ui = auto
+[merge]
+	conflictstyle = diff3

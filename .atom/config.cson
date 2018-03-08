@@ -1,0 +1,6 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    uriHandlerRegistration: "always"
+  "exception-reporting":
+    userId: "b0f3f3b0-e2f0-438a-be72-00238e40bcb4"
